@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 09:13-0400\n"
+"PO-Revision-Date: 2014-12-01 16:44-0400\n"
+"Last-Translator: Hubert <hubertf@cadlink.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1417470275.000000\n"
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "USB Flash Dongle"
+msgstr "USB Dongle"
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Connect your orange OR blue dongle prior to installing your software."
+msgstr ""
+"Schließen Sie Ihren orangen oder blauen Dongle vor der Installation der "
+"Software an."
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Windows will automatically detect the device, and you can then click Next to continue."
+msgstr ""
+"Windows wird automatisch dieses Gerät erkennen und können dann auf "
+"Fortfahren klicken."
+
+#~ msgid "Connect your orange dongle BEFORE installing your software!"
+#~ msgstr ""
+#~ "Stecken sie bitte den orangenen Dongel vor der Installation der Software an!"

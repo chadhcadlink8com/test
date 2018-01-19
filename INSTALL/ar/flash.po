@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 09:13-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "USB Flash Dongle"
+msgstr "دونجل لحظي USB"
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Connect your orange OR blue dongle prior to installing your software."
+msgstr "وصل الدونجل البرتقالي أو الدونجل الأزرق الخاص بك قبل تثبيت البرنامج."
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Windows will automatically detect the device, and you can then click Next to continue."
+msgstr ""
+"سوف تقوم Windows بالكشف عن الجهاز تلقائيا، ومن ثم يمكنك بعدها النقر فوق "
+"التالي للمتابعة."
+
+#~ msgid "Connect your orange dongle BEFORE installing your software!"
+#~ msgstr "وصل الدونجل البرتقالي الخاص بك قبل تثبيت البرنامج!"

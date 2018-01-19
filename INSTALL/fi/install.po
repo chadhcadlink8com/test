@@ -1,0 +1,1314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-19 09:13-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "%s Help File"
+msgstr "%s APUA Tiedosto"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "%s Packages No Output"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "%s Trial Setup Guide"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "%s User Guide"
+msgstr "%s Käyttäjän Opas"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "%s failed to install.  Your %s program may not run correctly until %s is successfully installed."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "32-bit Windows Application"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "3M Digital Designs II"
+msgstr "3M Digital Designs II"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "64-bit Windows Application"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "A newer or different version of this product is already installed at %s. Select OK to exit."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "American English"
+msgstr "USA"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "American English Dictionary"
+msgstr "USA Kieli"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Application Type"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "As a bonus you have received a free version of Fantastic Fills. It is installed to work with %s, click Next."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Available help files and user guides."
+msgstr ""
+
+#: SignLab Installer String
+msgid "Background Images"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Bitmap samples which can be used to fill graphics or lettering with a variety of patterns and textures."
+msgstr "Bitmap osaset joilla voi täyttää tekstiä kuvioilla ja kuvilla."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Browse for a license file."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "CADlink Ini Merge Complete"
+msgstr "Ini lisäys Valmis"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Calibration"
+msgstr "Kalbiraatiot"
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Can not find %s. Please select another directory."
+msgstr "En löydä %s. Valitse joku toinen hakemisto."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Choose either the 32-bit or 64-bit application type."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Choose the product component that you want to install."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Clip-Art Image Files"
+msgstr "Clip-Art Kuva tiedostot."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Clip-Art image files including a variety of Sign Blanks, Automobiles and Arrows."
+msgstr "Clip-Art kuvat sisältävät erillaisia Työkehyksiä, Autoja ja Nuolia."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Color Palettes"
+msgstr "Väri Paletit"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Complete %s Installation"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Connect your dongle PRIOR to installing your software!  Windows will automatically detect the device, and you can then click Next to continue."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Custom Install\\nThis option allows Advanced users to customize the installation to suit their needs."
+msgstr ""
+"Mukautettu Asennus\\n"
+"Tämä mahdollistaa määritellä itse haluamasi asennuksen."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Custom Sign Blanks"
+msgstr "Custom Sign Blanks"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Customizable Templates"
+msgstr "Mukautettu Templates"
+
+#: SignLab_Non Unicode Installer String
+msgid "Cut Manager Stand Alone"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Cutter Queue"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Cutting Device Installation"
+msgstr "Leikkuri Ohjain Asennus"
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Cutting Devices"
+msgstr "Ajurit"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Danish"
+msgstr "Tanska"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Danish Dictionary"
+msgstr "Tanska Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Database Drivers"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Demo"
+msgstr "Demo ohjelma"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Dictionary Files"
+msgstr "Sanakirja Tiedostot"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Digital Factory Design Pro"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Do you want to remove configuration settings and data files (font database, cut template database, drivers, etc) \\nfrom the Windows ProgramData folder?"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Do you wish to use Imperial or Metric units?"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Dutch"
+msgstr "Saksa"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Dutch Dictionary"
+msgstr "Saksa Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "EULA"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Edge Startup Procedure"
+msgstr "Terän työjärjestys"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "EngraveLab For Roland"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "EngraveLab Photo Laser"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Enter Server URL and Polling Port"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Extras"
+msgstr "Extrat"
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+msgid "Extratech"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+msgid "Extratech"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+msgid "Extratech"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Extratech Laser Post"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Extratech Tool Post"
+msgstr ""
+
+#: SignLab Installer String
+msgid "Eye Candy 4000 Plugin"
+msgstr ""
+
+#: SignLab Installer String
+msgid "Eye Candy Plugin"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Fancy Fills"
+msgstr "Koristeelliset Täytöt."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Fantastic Fills have been installed"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Filter Forge Plugins"
+msgstr ""
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "Finished"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Finnish"
+msgstr "Suomi"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Finnish Dictionary"
+msgstr "Suomi Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "French"
+msgstr "Ranska"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "French Dictionary"
+msgstr "Ranska Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Full Install\\nThis option will install all %s files to the target directory including the help file."
+msgstr ""
+"Täysi Asennus\\n"
+"Tämä valinta asentaa kaikki %s tiedostot kohde hakemistoon myös Apua "
+"Tiedoston."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Full install of %s"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "GIMP Bitmap Editor"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "German"
+msgstr "Saksa"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "German Dictionary"
+msgstr "Saksa Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Grayscale Pattern Fills"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Grayscale bitmaps for use in transparency masks."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Hasp Dongle Install"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Help"
+msgstr "Apua"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Help Files"
+msgstr "Apua tiedostot"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "IDesignR Pro"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "In order to read documentation in PDF format you need to have the Acrobat Reader installed.  Would you like to install it now?"
+msgstr ""
+"Lukeaksesi PDF tiedostoja tarvitse Acrobat Reader ohjelmaa. Haluatko asentaa "
+"sen nyt?"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "Inkscape"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "Inkscape"
+msgstr ""
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "Install %s files to:"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Install Companion"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Install Companion"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Install only product plug-ins"
+msgstr ""
+
+#: SignLab Installer String
+msgid "Install only product plug-ins for %s"
+msgstr ""
+
+#: SignLab Installer String
+msgid "Install stand-alone version of the Cut Manager"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Install stand-alone version of the Production Spooler"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Installation Choices"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Invalid install folder, please select a subfolder."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Invalid install folder. Please select a folder in which %s is already installed."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Invalid install folder. Please use only Latin(Western) characters."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Italian"
+msgstr "Italia"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Italian Dictionary"
+msgstr "Italia Kieli"
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-101LX (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-101S (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-132LX (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-132S (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-183LX (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-61 (AASII)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Jaguar V-61LX (AASII)"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Jet Pro"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "KnockMeOut"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "LaserDRAW"
+msgstr "LaserDRAW"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "LaserDRAW Help File"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "License File Query"
+msgstr "Lisenssi Tiedosto Kysely"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Mandatory Reboot Required"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Manufacturer:"
+msgstr "Valmistaja."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Microsoft Visual C++ 2005 Redistributable"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Microsoft Visual C++ 2005 SP1 Redistributable"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Microsoft Visual C++ 2008 SP1 Redistributable"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Minimal Install\\nThis option will install only those components required for %s to run."
+msgstr ""
+"Minimi Asennus\\n"
+"Tämä valinta asentaa vain tarpeellliset tiedostot jotta ohjelma %s toimii."
+
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "NewXmlFile.xml"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+msgid "Newer %s product is already installed and will not be over-written."
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "No device selected. The default device will be installed."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "No, keep these files."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Old Gretag Driver detected. Old drivers must be uninstalled for the new ones to function correctly. Uninstall now? (uninstall is located in GretagUninstall)"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Orange"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Output Device:"
+msgstr "Tulostus laite."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Output Spooler"
+msgstr "Tausta Leikkaus"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Photo Laser"
+msgstr "Photo Laser"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "PhotoShop Bitmap Filters"
+msgstr "PhotoShop Kuva Suodatin"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please be patient this may take 15-20 minutes to complete"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Please be patient."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Please choose one of the following installation options."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please enter the License Server URL and polling port number."
+msgstr ""
+
+#: SignLab Installer String
+msgid "Please enter the SAP server address."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please enter the correct path to the license file below and press OK to continue."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please insert the %s install media and browse to the media."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please plug in your dongle."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please replace the Installer CD in the CD ROM drive before continuing."
+msgstr ""
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "Please select a folder in which %s is already installed."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please select the install with which to proceed:"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please uninstall previous versions of psqueue.exe before proceeding with this install."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Please wait while the installation proceeds to the next step."
+msgstr "Odoita kunnes asennus pyytää seuraavaa toimintoa."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Plug-in Only Install"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Port Number"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Portuguese (Brazilian) Dictionary"
+msgstr "Portugali (Brasilia) Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Portuguese Brazilian"
+msgstr "Portugali (Brasilia)"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Print Mode Calibration Wizard"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Production Spooler"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Production Spooler Help"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Program Files is an invalid install folder.  Please select another."
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Q3-MAC"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Queue Files"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Quick Start Guide"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "RGB bitmap filters for Photoshop."
+msgstr "RGB kuvatiedosto suodatin PhotoShop:iin."
+
+#: SignLab Plotter Driver Installer String
+msgid "RX2-101S"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "RX2-132S"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "RX2-183S"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "RX2-61"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Redistributable"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Remote Install - Select this option for the remote network install of %s."
+msgstr "Etä asennus - Valitse tämä verkkoasennukseen %s."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Remote Printer Install"
+msgstr "Etä tulostus  asennus"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "Remote Support"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Required Components"
+msgstr "Tarvittavat Osat"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Required Components"
+msgstr "Tarvittavat Osat"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Required File Missing:"
+msgstr "Tarvittava tiedotoo uupuu"
+
+#: SignLab Plotter Driver Installer String
+msgid "Select or remove one or more cutting device manufacturers."
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Select the drivers you want to install, clear the drivers you want to uninstall."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Server URL"
+msgstr ""
+
+#: SignLab Installer String
+msgid "Service Pack 1 is required for this software to run on Windows 7."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Service Pack 2 is required for this software to run on Windows XP."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Service Pack 3 is required for this software to run on Windows 2000."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Service Pack 3 is required for this software to run on Windows XP."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Setup"
+msgstr "Asennus"
+
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Setup could not find the SignLab directory.  Please install SignLab before running the drivers setup."
+msgstr ""
+"Asennus Signlab hakemistoa ei löydy.  Asenna ensin Signlab ennenkuin asennat "
+"ohjaimia."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "Share directory not created.  Please check that file sharing is enabled."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "Share folder %s already exists."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "SignMax"
+msgstr "SignMax"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "SignMax Plotters"
+msgstr "SignMax Plotters"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "SignMax Plugins"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "SignMax Ultimate Plotters"
+msgstr "SignMax Ultimate Plotters"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Some program features may not work correctly on Windows XP 64-bit."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Spanish"
+msgstr "Espanja"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Spanish Dictionary"
+msgstr "Espanja Kieli"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Star Designer Custom Toolbars"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Star Granite Manager"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "SureLab Laser"
+msgstr "SureLab Laser"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Swedish"
+msgstr "Ruotsi"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Swedish Dictionary"
+msgstr "Ruotsi Kieli"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "TeamViewer"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Template samples which can be used to lay out text, logos, artwork, date\\nand times for job estimates and proofs."
+msgstr ""
+"Template esimerkki joita voi käyttää tekstissä, logoissa, töissä, päivä\\n"
+"ja kellonaika mahdollista."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "The 32-bit Windows application might be necessary if you have 32-bit third-party plug-ins."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "The API return buffer is too small."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "The Thermal Printing Guide in pdf format."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "The User Guide is the pdf version of the manual."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "The directory does not exist."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab Plotter Driver Installer String
+#: SignLab_Non Unicode Installer String
+msgid "The installation cannot proceed while %s is running."
+msgstr "Asennusta ei voi käyttää jos %s on käynnissä."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "The installer must now reboot your computer.  Please save all your work, close other programs you may be using, then press OK."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "The operation is invalid on a redirected resource."
+msgstr ""
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "The update cannot proceed while %s is running."
+msgstr ""
+
+#: SignLab Installer String
+msgid "There are one or more associated programs that need to be uninstalled first, as follows: \\n\\n%s\\nPress OK to automatically uninstall them now or Cancel to exit."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "There is an existing %s already installed at %s. It is not recommended to install the same product multiple times on a single computer so it is recommended that you exit. Do you wish to exit?"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Thermal Printing Guide"
+msgstr "Lämpö tulostus ohje"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "These components compliment the core %s program."
+msgstr "Nämä komponentit yhdistävät %s ohjelmat."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "These files are provided for use during the %s tutorial."
+msgstr "Nämä tiedostot kuuluvat %s opastukseen."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "These palettes are used by %s to allow you to select exact media colors from various companies."
+msgstr ""
+"Tämä paletti on käytetty %s mahdollistaaksesi sinun käyttää eri värejä "
+"teipeistä."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This component allows you to queue output files to various devices including printers, cutters and plotters."
+msgstr ""
+"Tämä osa mahdollista pistää jonoon työt eri Printtereille ja Leikkureille."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This component consists of all the files necessary to run %s."
+msgstr ""
+"Tämä osa sisältää kaikki tarpeelliset tiedostot ohjelman käynnistämiseen %s."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This component consists of various utilities used by %s to help you in your work."
+msgstr "Nämä osat sisältävät hyödyllistä tietoa %s auttaaksesi sinua työssäsi."
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "This installer will update your existing %s program files."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This is the %s Help file and online manual."
+msgstr "Tämä on %s APUA tiedosto ja Käyttö Manuaali."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This license file is for another version of the software."
+msgstr "Tämä license tiedosto on eri versiolle."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This option allows you to choose dictionaries for %s's spelling checker."
+msgstr ""
+"Tämä valinta mahdollistaa sinun valita Sanakirjan %s sanojen tarkistuksen."
+
+#: SignLab_Non Unicode Installer String
+msgid "This software is not compatible with Windows XP."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This software will not run on:"
+msgstr "Tämä ohjelmisto ei käynnisty."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "This utility allows you to keep track of how much time you spend doing each job."
+msgstr ""
+"Tämä osa mahdollistaa sinun pitää tietoa kuinka paljon aikaa kulutit "
+"kuhunkin työhön."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "TimeSign Utility"
+msgstr "Aika Ohjelma"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "To upgrade or install cutting devices, select the Cutting Devices option."
+msgstr ""
+"Päivittääksesi olemassaolevasi ajurin ja asentaaksesi uuden, valitse ajuri "
+"optio."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Transparency Bitmaps"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Trophy Blanks"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Tutorial Files"
+msgstr "Opastus Tiedostot"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "UK English"
+msgstr "Englanti"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "UK English Dictionary"
+msgstr "Englanti Kieli"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "USB Flash Dongle"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Update %s"
+msgstr "Päivitys %s"
+
+#: IS_Update Installer String
+#: SignLab Installer String
+msgid "Update Finished"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Updating Common Controls"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Updating Initial Settings"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Updating Registry"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Updating Shortcuts"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Use Imperial units."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Use Metric units."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Utilities"
+msgstr "Hyödylliset"
+
+#: SignLab Plotter Driver Installer String
+msgid "V5 Production Driver"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Vinyl Express QE-6000 USB (GPGL)"
+msgstr ""
+
+#: SignLab Plotter Driver Installer String
+msgid "Vinyl Express QE-6000 USB (HPGL)"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Vision Express"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+msgid "Vision Queue"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+msgid "Warning share folder %s not created, error:"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Warning, existing install is newer. Data may be lost if you continue. Do you wish to continue?"
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Windows Installer Version 3.1 must be installed.  After install is complete please re-start this installation."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "XenLab"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Yes, I would like to upgrade or install new cutting devices..."
+msgstr "Kyllä, haluan päivittäää tai asentaa uuden ajurin..."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Yes, remove these files  (recommended)."
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "You are about to overwrite an existing %s program. Do you wish to use the configuration settings from your existing installation?  (It is recommended that you do not use these settings.)"
+msgstr ""
+
+#: SignLab Installer String
+msgid "You are about to overwrite an existing %s program. Do you wish to use the configuration settings from your existing installation? Select Yes to use the existing settings (recommended), or No to discard."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "You are installing %s in a language other than your license will allow.  You will have to run the install again or obtain a new license file for %s to display correctly."
+msgstr ""
+"Sinä aiot asentaa Käyttökielen johon sinulla ei ole Salasanaa.  Sinun täytyy "
+"käynnistää uudestaan asennusohjelma tai antaa uusi Salasana %s jotta ohjelma "
+"toimii oikein."
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: SignLab Installer String
+msgid "You cannot install a %s bit program over a %s bit program. Press OK to change to %s bit or press Cancel to exit the install."
+msgstr ""
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "You have chosen to install over an existing installation of %s.  Do you wish to continue?"
+msgstr "Olet valinnut uudelleen asennuksen %s.  Haluatko jatkaa?"
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "You have deselected the required components.  If you do not install these components, you  will not be able to use %s unless you are upgrading an individual component.  Do you want to continue?"
+msgstr ""
+"Et ole valinnut Tärkeitä ohjelman osia.  Jos et asenna näitä osia, niin "
+"sinulla ei ole mahdollista käyttää %s ennenkuin asennat tarvittavat osat.  "
+"Haluatko jatkaa?"
+
+#: Queue (VPM, DF, FilmMaker) Installer String
+#: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "You require administrator privileges to successfully install this software."
+msgstr "Sinä tarvitset Pääkäyttäjän oikeudet asentamiseen."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "Your original %s has been renamed to %s."
+msgstr "Sinun Alkuperäinen %s on muutettu nimellä %s."
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "iDesignR Lite Help File"
+msgstr ""
+
+#: SignLab Installer String
+#: SignLab_Non Unicode Installer String
+msgid "iDesignR Pro Help File"
+msgstr ""
+
+#~ msgid "Do you wish to use the configuration settings from your existing installation?  (It is recommended that you do not use these settings.)"
+#~ msgstr ""
+#~ "Haluatko käyttää nykyisiä ohjelmasi asetuksia?  (On erittäin tärkeää että et "
+#~ "käytä niitä asetuksia.)"
+
+#~ msgid "Select the cutting devices you wish to update:"
+#~ msgstr ""
+#~ "Anna RASTI (X) jokaiseen ohjaimeen jonka haluat asentaa.  Poista RASTI "
+#~ "ohjaimesta jonka haluat poistaa."
+
+#~ msgid "Warning, existing install is newer.  Do you wish to continue?"
+#~ msgstr "Varoitus, olemassaoleva asennus on uudempi. Haluatko jatkaa?"

@@ -1,0 +1,14 @@
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "USB Flash Dongle"
+msgstr ""
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Connect your orange OR blue dongle prior to installing your software."
+msgstr ""
+
+#. Installer instructions for flash dongles
+#: CFD.bmp
+msgid "Windows will automatically detect the device, and you can then click Next to continue."
+msgstr ""
