@@ -1,0 +1,22 @@
+phraseapp:
+  access_token: "51a65085"
+  project_id: "cc52f6727e3ef998f0f64ee3d2bdacda"
+  file_format: "pot"
+  push:
+    sources:
+      - file: "./INSTALL/templates/install.pot"
+  pull:
+    targets:
+      - file: "./INSTALL/fr/install.po"
+      - file: "./INSTALL/de/install.po"
+      
+
+
+
+
+
+
+
+
+
+
