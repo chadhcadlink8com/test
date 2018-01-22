@@ -1,5 +1,5 @@
 phraseapp:
-  access_token: "XXXXX"
+  access_token: "d55403ed8e96cad67113"
   project_id: "cc52f6727e3ef998f0f64ee3d2bdacda"
   file_format: "pot"
   push:
