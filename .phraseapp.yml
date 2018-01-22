@@ -1,15 +1,18 @@
 phraseapp:
-  access_token: "51a65085"
+  access_token: "1470edbe57a40d76873a5378f9ca45ea5a9b9e2f"
   project_id: "cc52f6727e3ef998f0f64ee3d2bdacda"
   file_format: "pot"
   push:
     sources:
-      - file: "./INSTALL/templates/install.pot"
+      file: "./INSTALL/templates/install.pot"
   pull:
     targets:
-      - file: "./INSTALL/fr/install.po"
-      - file: "./INSTALL/de/install.po"
-      
+      file: "./INSTALL/fr/install.po"
+      params:
+        file_format: "po"
+      file: "./INSTALL/de/install.po"
+      params:
+        file_format: "po"
 
 
 
