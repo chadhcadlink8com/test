@@ -5,3 +5,8 @@ phraseapp:
   pull:
     targets:
       - file: ./INSTALL/templates/install.pot
+  push:
+    sources:
+      - file: ./INSTALL/fr/install.po
+        params:
+          file_format: po
