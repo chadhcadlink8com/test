@@ -2,7 +2,7 @@
 #: Queue (VPM, DF, FilmMaker)_Non Unicode Installer String
 #: SignLab Installer String
 #: SignLab_Non Unicode Installer String
-msgid "%s Help File"
+msgid "%s Help Filess"
 msgstr ""
 
 #: SignLab Installer String
