@@ -4,15 +4,4 @@ phraseapp:
   file_format: "pot"
   pull:
     targets:
-      file: "./INSTALL/templates/install.pot"
-
-
-
-
-
-
-
-
-
-
-
+      - file: "./INSTALL/templates/install.pot"
