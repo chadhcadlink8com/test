@@ -4,9 +4,11 @@ phraseapp:
   file_format: "pot"
   pull:
     targets:
-      - file: /INSTALL/templates/install.pot
+      - file: ./INSTALL/templates/install.pot
+        params:
+          file_format: po
   push:
     sources:
-      - file: /INSTALL/fr/install.po
+      - file: ./INSTALL/fr/install.po
         params:
           file_format: po
