@@ -1,5 +1,4 @@
 phraseapp:
-  access_token: "dd98a79668f7d67803e5613338975958124d8cdbeb9480cc98e6bc4a141d56de"
   project_id: "cc52f6727e3ef998f0f64ee3d2bdacda"
   file_format: "pot"
   pull:
